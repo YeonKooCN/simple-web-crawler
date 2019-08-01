@@ -1,0 +1,40 @@
+Last login: Fri May 31 12:19:36 on ttys000
+CAHBMBP-2290:~ yeyangg$ cd desktop/Project3/Deliverables/MS1
+CAHBMBP-2290:MS1 yeyangg$ python3 searchDriver.py
+------------------------------------------------------
+Initiating Search Engine..............
+Loading pickle file....................
+Time to load pickle:  2.855196237564087 seconds.
+Please enter a search query:
+Enter number '0' to exit the program
+Informatics
+You have entered the word: informatics
+Searching results for the word: informatics .........
+Only showing the first 20 URLs
+[ 1 ] wics.ics.uci.edu/category/news/info-session?afg12_page_id=2&afg44_page_id=4&afg34_page_id=4&afg15_page_id=2&afg42_page_id=2&afg22_page_id=2
+[ 2 ] wics.ics.uci.edu/category/news/info-session?afg12_page_id=2page%2F2%2Fpage/2/&afg42_page_id=2&afg44_page_id=4&afg43_page_id=3&afg34_page_id=4
+[ 3 ] www.ics.uci.edu/facebook/login/browse/fanned_pages/events/252272701892321/search/str/%25E9%259D%259E%25E8%2590%25A5%25E5%2588%25A9%25E7%25BB%2584%25E7%25BB%2587/keywords_pages/UCIBrenICS/photos/a.10150104180706909.283411.106291486908/10154408253796909?type=3
+[ 4 ] sdcl.ics.uci.edu/2015/06/end-of-quarter-lunch-2
+[ 5 ] www.ics.uci.edu/~kay/courses/i42/hw
+[ 6 ] www.ics.uci.edu/facebook/pages/create/dialog/UCIBrenICS/videos/10154385262331909/events/1849114518693808/browse/fanned_pages?id=106291486908&showauxiliary=1&fanorigin=timeline_like_chaining&ref=page_internal
+[ 7 ] sdcl.ics.uci.edu/2013/12/new-workshop-on-crowdsourcing-in-software-engineering
+[ 8 ] www.ics.uci.edu/~kay/courses/4/refs.html
+[ 9 ] www.ics.uci.edu/facebook/login/browse/fanned_pages/events/252272701892321?acontext=%7B%22source%22%3A3%2C%22source_newsfeed_story_type%22%3A%22regular%22%2C%22action_history%22%3A%22%5B%7B%5C%22surface%5C%22%3A%5C%22newsfeed%5C%22%2C%5C%22mechanism%5C%22%3A%5C%22feed_story%5C%22%2C%5C%22extra_data%5C%22%3A%5B%5D%7D%5D%22%2C%22has_source%22%3Atrue%7D&source=3&source_newsfeed_story_type=regular&action_history=%5B%7B%22surface%22%3A%22newsfeed%22%2C%22mechanism%22%3A%22feed_story%22%2C%22extra_data%22%3A%5B%5D%7D%5D&has_source=1&hc_ref=PAGES_TIMELINE
+[ 10 ] cml.ics.uci.edu/category/news/page/6?page=events&subPage=aiml
+[ 11 ] wics.ics.uci.edu/category/news/info-session?afg41_page_id=2page%2F2%2F&afg44_page_id=5
+[ 12 ] wics.ics.uci.edu/category/news/info-session?afg12_page_id=2page%2F2%2Fpage%2F2%2F&afg34_page_id=2&afg15_page_id=1&afg43_page_id=1
+[ 13 ] www.ics.uci.edu/community/news/view_news?id=1031
+[ 14 ] www.ics.uci.edu/prospective/en/degrees/data-science
+[ 15 ] vcp.ics.uci.edu/biblio/author/439
+[ 16 ] www.ics.uci.edu/~andre/informatics121f2015.html
+[ 17 ] sdcl.ics.uci.edu/2012/10/welcome-sergio
+[ 18 ] wics.ics.uci.edu/category/news/info-session?afg41_page_id=2page/2/&afg44_page_id=3&afg15_page_id=3&afg42_page_id=3&afg12_page_id=2
+[ 19 ] wics.ics.uci.edu/category/news/info-session?afg15_page_id=2&afg41_page_id=2&afg34_page_id=4&afg42_page_id=1
+[ 20 ] wics.ics.uci.edu/category/news/info-session?afg12_page_id=2page%2F2%2F&afg13_page_id=2&afg34_page_id=4&afg42_page_id=3&afg22_page_id=2&afg44_page_id=3&afg15_page_id=3
+Search Completed.
+Total number of results:  1838
+Time to search: 0.0012149810791015625 seconds
+******************************************************
+Please enter a search query:
+Enter number '0' to exit the program
+

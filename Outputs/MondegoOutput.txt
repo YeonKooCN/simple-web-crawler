@@ -1,0 +1,40 @@
+Last login: Fri May 31 12:19:55 on ttys000
+CAHBMBP-2290:~ yeyangg$ cd desktop/Project3/Deliverables/MS1
+CAHBMBP-2290:MS1 yeyangg$ python3 searchDriver.py
+------------------------------------------------------
+Initiating Search Engine..............
+Loading pickle file....................
+Time to load pickle:  2.478370189666748 seconds.
+Please enter a search query:
+Enter number '0' to exit the program
+Mondego
+You have entered the word: mondego
+Searching results for the word: mondego .........
+Only showing the first 20 URLs
+[ 1 ] mondego.ics.uci.edu/projects/clonedetection/tool/source?C=S;O=A
+[ 2 ] mondego.ics.uci.edu/projects/clonedetection/tool/demo
+[ 3 ] mondego.ics.uci.edu/projects/clonedetection/tool/latest/features?C=D;O=A
+[ 4 ] mondego.ics.uci.edu/datasets/wikipedia-events/files?C=M;O=A
+[ 5 ] mondego.ics.uci.edu/projects/clonedetection/tool/demo?C=S;O=A
+[ 6 ] mondego.ics.uci.edu/projects/clonedetection/tool/latest/plugins
+[ 7 ] mondego.ics.uci.edu/datasets/wikipedia-events/files?C=M;O=D
+[ 8 ] mondego.ics.uci.edu
+[ 9 ] mondego.ics.uci.edu/datasets?C=N;O=D
+[ 10 ] www.ics.uci.edu/~lopes
+[ 11 ] mondego.ics.uci.edu/projects/clonedetection/tool/latest
+[ 12 ] mondego.ics.uci.edu/projects/clonedetection/tool/latest/plugins?C=M;O=A
+[ 13 ] mondego.ics.uci.edu/datasets?C=S;O=A
+[ 14 ] mondego.ics.uci.edu/datasets/wikipedia-events/files
+[ 15 ] mondego.ics.uci.edu/datasets/wikipedia-events?C=D;O=A
+[ 16 ] mondego.ics.uci.edu/projects/clonedetection/tool/latest?C=D;O=A
+[ 17 ] mondego.ics.uci.edu/datasets
+[ 18 ] mondego.ics.uci.edu/projects/clonedetection/tool/demo?C=D;O=A
+[ 19 ] mondego.ics.uci.edu/projects/clonedetection/tool/source?C=S;O=D
+[ 20 ] mondego.ics.uci.edu/projects/clonedetection/tool/source?C=D;O=A
+Search Completed.
+Total number of results:  47
+Time to search: 0.00026988983154296875 seconds
+******************************************************
+Please enter a search query:
+Enter number '0' to exit the program
+
